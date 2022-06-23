@@ -1,0 +1,4 @@
+var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/WMKL.gltf");
+geofs.api.setModelPositionOrientationAndScale(model, [6.342292, 99.731164, 0], [0, 0, 0], [1, 1, 1]);var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/geofsvidp3.gltf");
+geofs.api.setModelPositionOrientationAndScale(model, [28.5567, 77.0879, 224.4], [105, 0, 0], [1.3, 1.3, 1.3]);var model = geofs.api.loadModel("https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/darwin.gltf");
+geofs.api.setModelPositionOrientationAndScale(model, [-12.4086012, 130.8780314,  17.4465074], [90, 0, 0], [1, 1, 1]);

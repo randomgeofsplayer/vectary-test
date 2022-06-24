@@ -1,0 +1,19 @@
+[{
+    "location": [
+      28.5567,
+      77.0879,
+      224.4
+    ],
+    "url": "https://raw.githubusercontent.com/RickAstleyFan69/Test_1/main/models/geofsvidp3.gltf",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      0,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }]
